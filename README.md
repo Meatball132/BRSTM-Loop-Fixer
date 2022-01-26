@@ -1,5 +1,5 @@
 # BRSTM-Loop-Fixer
-Aligns loop points to multiples of the BRSTM frame size so custom BRSTMs loop properly.
+CLI tool that takes loop points and converts them to multiples of the BRSTM frame size so custom BRSTMs loop properly.
 
 Usage:
 `brstm_loop_fixer Loop_Start Loop_End`
